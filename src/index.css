@@ -2,6 +2,7 @@
 
 /* base styles */
 * {
+  text-align: left;
   margin: 0;
   font-family: "Quicksand";
   color: #333;
@@ -36,7 +37,6 @@
 
 /* blog previews / list */
 .blog-preview {
-  text-align: left;
   padding: 10px 16px;
   margin: 20px 0;
   border-bottom: 1px solid #fafafa;
